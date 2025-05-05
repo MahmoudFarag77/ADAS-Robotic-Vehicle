@@ -128,17 +128,4 @@ The Traffic Sign Detection and Recognition (TSDR) module is written in Python an
 ## 🧭 System Architecture
 - System Architectures are available in [`Docs/`](Docs/)
 
-### Autonomous Emergency Braking
-![System Diagram](Docs/AEB_FlowChart.png)
-### Adaptive Cruise Control
-![System Diagram](Docs/ACC_FlowChart.png)
-### Lane Keep Assist
-![System Diagram](Docs/LKA_FlowChart.png)
-### Traffic Sign Detection and Recognition
-![System Diagram](Docs/TSDR_FlowChart.png)
-### Blind Spot Warning
-![System Diagram](Docs/BSW_FlowChart.png)
-### Adaptive Light System
-![System Diagram](Docs/ALS_FlowChart.png)
-
 ---
