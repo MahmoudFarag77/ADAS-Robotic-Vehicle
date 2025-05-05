@@ -111,7 +111,7 @@ The Traffic Sign Detection and Recognition (TSDR) module is written in Python an
 
 - Full CAD of the 4-wheel chassis
 - Steering and motor integration
-- Rendered previews available in [`renders/`](Media/)
+- Rendered previews available in [`Media/`](Media/)
 
 ![Chassis Render](Media/1.png)
 
@@ -126,6 +126,7 @@ The Traffic Sign Detection and Recognition (TSDR) module is written in Python an
 ---
 
 ## 🧭 System Architecture
+- System Architectures are available in [`Docs/`](Docs/)
 
 ### Autonomous Emergency Braking
 ![System Diagram](Docs/AEB_FlowChart.png)
