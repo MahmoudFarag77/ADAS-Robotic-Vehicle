@@ -59,7 +59,7 @@ Implements:
 - AEB, ACC, LKA, BSW, ALS
 - Real-time task scheduling with FreeRTOS
 
-## 📚 ESP32 Firmware Dependencies
+### 📚 ESP32 Firmware Dependencies
 
 The following libraries are used in the ESP32 embedded firmware. Make sure they are installed in your Arduino IDE before uploading:
 
@@ -83,7 +83,7 @@ Implements:
 - Python script
 - I2C master communication to send detection data to ESP32
 
-## 🧠 Raspberry Pi – TSDR Python Dependencies
+### 🧠 Raspberry Pi – TSDR Python Dependencies
 
 The Traffic Sign Detection and Recognition (TSDR) module is written in Python and uses the following libraries:
 
@@ -111,9 +111,9 @@ The Traffic Sign Detection and Recognition (TSDR) module is written in Python an
 
 - Full CAD of the 4-wheel chassis
 - Steering and motor integration
-- Rendered previews available in [`renders/`](SolidWorks_Model/renders/)
+- Rendered previews available in [`renders/`](Media/)
 
-![Chassis Render](SolidWorks_Model/renders/model_render.png)
+![Chassis Render](Media/1.png)
 
 ---
 
@@ -127,7 +127,17 @@ The Traffic Sign Detection and Recognition (TSDR) module is written in Python an
 
 ## 🧭 System Architecture
 
-![System Diagram](Docs/system_architecture.png)
+### Autonomous Emergency Braking
+![System Diagram](Docs/AEB_FlowChart.png)
+### Adaptive Cruise Control
+![System Diagram](Docs/ACC_FlowChart.png)
+### Lane Keep Assist
+![System Diagram](Docs/LKA_FlowChart.png)
+### Traffic Sign Detection and Recognition
+![System Diagram](Docs/TSDR_FlowChart.png)
+### Blind Spot Warning
+![System Diagram](Docs/BSW_FlowChart.png)
+### Adaptive Light System
+![System Diagram](Docs/ALS_FlowChart.png)
 
 ---
-
